@@ -16,7 +16,7 @@ Deep4ORL upgrades an existing AlexNet model into a more accurate, robust, and de
 - Model Improvement: Fine-tune and optimize the AlexNet architecture for multi-class classification (12 ear pathologies).
 - Clinical Validation: Deploy and test the improved model in real-world healthcare settings
 
-📊 <h5>Dataset</h5>
+ <h5>Dataset</h5>
 The dataset includes:
 New otoscopy images collected across multiple clinical sites, anonymized and annotated by ENT specialists
 Balanced across 12 targeted pathologies, augmented to increase model robustness. The dataset is also subjected to Terms of Service and Privacy Policy of the owner
